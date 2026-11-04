@@ -1,4 +1,5 @@
-# Part 1: model and solvers (Aqil)
+# Part 1: model and solvers
+
 
 ## Files
 
